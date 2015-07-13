@@ -69,7 +69,7 @@ Further details on each of these assignments will be available in Blackboard.
 *Homework and Labs are due on the last day of the section*
 
 Start  | Due Date | Chapter | Topic                              
-------------------|:-------:|:-----------------------------------
+-------|----------|:-------:|:-----------------------------------
 Aug-27 | Sep-6    | 1       | [Intro to Data](Pages/1_Intro_to_Data.md)
 Sep-7  | Sep-13   | 2       | Probability
 Sep-14 | Sep-27   | 3       | Distributions
