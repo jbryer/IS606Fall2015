@@ -70,7 +70,7 @@ Further details on each of these assignments will be available in Blackboard.
 
 Start  | Due Date | Chapter | Topic                              
 -------|----------|:-------:|:-----------------------------------
-Aug-27 | Sep-6    | 1       | [Intro to Data](Pages/1_Intro_to_Data.md)
+Aug-27 | Sep-6    | 1       | [Intro to Data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/1_Intro_to_Data.html)
 Sep-7  | Sep-13   | 2       | Probability
 Sep-14 | Sep-27   | 3       | Distributions
 Sep-28 | Oct-11   | 4       | Foundation for Inference
