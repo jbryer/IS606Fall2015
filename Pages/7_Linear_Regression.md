@@ -21,6 +21,8 @@ IS606::startLab('Lab7')
 
 ### Readings
 
+* [Linear regression with SAT scores](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/Linear_Regression_SAT.html) - This document outlines the implementation of linear regression step-by-step emphasizing visualizations.
+
 
 ### Videos
 
