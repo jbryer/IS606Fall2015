@@ -179,8 +179,8 @@ These mini projects will have you explore statistical topics using R. For each p
 
 <li value='4'> Foundations for Statistical Inference 
 <ol type="A">
-<li> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4a/sampling_distributions.html'>Sampling Distributions</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4a/sampling_distributions.Rmd?raw=true'>Template</a>)</li>
-<li> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4b/confidence_intervals.html'>Confidence Levels</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4b/confidence_intervals.Rmd?raw=true'>Template</a>)</li>
+<li value='A'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4a/sampling_distributions.html'>Sampling Distributions</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4a/sampling_distributions.Rmd?raw=true'>Template</a>)</li>
+<li value='B'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4b/confidence_intervals.html'>Confidence Levels</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4b/confidence_intervals.Rmd?raw=true'>Template</a>)</li>
 </ol></li>
 
 <li value='5'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab5/inf_for_numerical_data.html'>Inference for Numerical Data</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab5/inf_for_numerical_data.Rmd?raw=true'>Template</a>)</li>
