@@ -18,11 +18,13 @@ The labs are available in the `IS606` R package. To start the first lab, use the
 IS606::startLab('Lab2')
 ```
 
-### Readings
+## Readings
+
+* [OpenIntro Statistics slides](https://github.com/jbryer/IS606Fall2015/raw/master/Slides/OpenIntro/os2_slides_02.pdf)
 
 * Matloff, N. (2009). [*From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science*](https://github.com/jbryer/IS606Fall2015/blob/master/Textbook/ProbStatBook.pdf?raw=true). Available from [http://heather.cs.ucdavis.edu/probstatbook](http://heather.cs.ucdavis.edu/probstatbook).
 
 
-### Videos
+## Videos
 
 

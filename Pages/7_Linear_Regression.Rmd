@@ -23,11 +23,13 @@ IS606::startLab('Lab7')
 ```
 
 
-### Readings
+## Readings
+
+* [OpenIntro Statistics slides](https://github.com/jbryer/IS606Fall2015/raw/master/Slides/OpenIntro/os2_slides_07.pdf)
 
 * [Linear regression with SAT scores](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/Linear_Regression_SAT.html) - This document outlines the implementation of linear regression step-by-step emphasizing visualizations.
 
 
-### Videos
+## Videos
 
 

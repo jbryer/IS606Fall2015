@@ -21,9 +21,10 @@ IS606::startLab('Lab4b')
 
 
 
-### Readings
+## Readings
 
+* [OpenIntro Statistics slides](https://github.com/jbryer/IS606Fall2015/raw/master/Slides/OpenIntro/os2_slides_04.pdf)
 
-### Videos
+## Videos
 
 

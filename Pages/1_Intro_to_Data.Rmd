@@ -5,6 +5,7 @@ output:
     keep_md: true
 ---
 
+
 ## Assignments
 
 ### Homework
@@ -21,6 +22,10 @@ The labs are available in the `IS606` R package. To start the first lab, use the
 ```{r, eval=FALSE}
 startLab('Lab1')
 ```
+
+## Readings
+
+* [OpenIntro Statistics slides](https://github.com/jbryer/IS606Fall2015/raw/master/Slides/OpenIntro/os2_slides_01.pdf)
 
 ## Videos
 

@@ -18,14 +18,14 @@ output:
 
 *TBD*
 
-### Readings
+## Readings
 
 * [Fitting a Model by Maximum Likelihood](http://www.exegetic.biz/blog/2013/08/fitting-a-model-by-maximum-likelihood/) (Collier, 2013).
 * [Kruschke's website for *Doing Bayesian Data Analysis*](https://sites.google.com/site/doingbayesiandataanalysis/)
 * [Kruschke's blog](http://doingbayesiandataanalysis.blogspot.com/)
 * [Andrew Gelman's blog](http://andrewgelman.com/) - Posts about [bayesian statistics](http://andrewgelman.com/category/bayesian-statistics/)
 
-### Videos
+## Videos
 
 [Bayesian Methods Interpret Data Better](https://www.youtube.com/watch?v=YyohWpjl6KU)
 
