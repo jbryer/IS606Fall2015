@@ -71,36 +71,38 @@ Further details on each of these assignments will be available in Blackboard.
 Start  | Due Date | Chapter | Topic                              
 -------|----------|:-------:|:-----------------------------------
 Aug-27 | Sep-6    | 1       | [Intro to Data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/1_Intro_to_Data.html)
-Sep-7  | Sep-13   | 2       | Probability
-Sep-14 | Sep-27   | 3       | Distributions
-Sep-28 | Oct-11   | 4       | Foundation for Inference
-Oct-12 | Nov-1    | 5       | Inference for Numerical Data
-Oct-12 | Nov-1    | 6       | Inference for Categorical Data
-Nov-2  | Nov-15   | 7       | Linear Regression
-Nov-16 | Nov-29   | 8       | Multiple & Logistic Regression
-Nov-30 | Dec-13   |         | Introduction to Bayesian Analysis
+Sep-7  | Sep-13   | 2       | [Probability](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/2_Probability.html)
+Sep-14 | Sep-27   | 3       | [Distributions](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/3_Distributions.html)
+Sep-28 | Oct-11   | 4       | [Foundation for Inference](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/4_Foundations_for_inference.html)
+Oct-12 | Nov-1    | 5       | [Inference for Numerical Data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/5_Numerical_Data.html)
+Oct-12 | Nov-1    | 6       | [Inference for Categorical Data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/6_Categorical_Data.html)
+Nov-2  | Nov-15   | 7       | [Linear Regression](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/7_Linear_Regression.html)
+Nov-16 | Nov-29   | 8       | [Multiple & Logistic Regression](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/8_Multiple_Regression.html)
+Nov-30 | Dec-13   |         | [Introduction to Bayesian Analysis](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/9_Bayesian.html)
 Dec-14 | Dec-17   |         | Final Exam (due by 5pm on Dec-17)
 
 #### Meetup Schedule
 
-Date           | Topic                          | Slides
----------------|--------------------------------|------------
-Aug-27 7:00 pm | Introduction to the course     | 
-Sep-3  7:00 pm | Introduction to data           | 
-Sep-10 7:00 pm | Probability                    | 
-Sep-17 7:00 pm | Distributions                  | 
-Sep-24 7:00 pm |                                | 
-Oct-1  7:00 pm | Foundation for Inference       | 
-Oct-8  7:00 pm |                                | 
-Oct-15 7:00 pm | Inference for Numerical Data   | 
-Oct-22 7:00 pm | Inference for Categorical Data | 
-Oct-29 7:00 pm |                                | 
-Nov-5  7:00 pm | Linear Regression              | 
-Nov-12 7:00 pm |                                | 
-Nov-19 7:00 pm | Multiple & Logistic Regression | 
-Dec-3  7:00 pm | Intro to Bayesian Analysis     | 
-Dec-10 7:00 pm | Final Exam Review              | 
-Dec-17 7:00 pm | Conclusions                    | 
+There will be weekly meetups. You are encouraged to attend as many as you can but recordings will generally be availabe within a few days of the meetup.
+
+Date           | Topic                          
+---------------|--------------------------------
+Aug-27 7:00 pm | Introduction to the course     
+Sep-3  7:00 pm | Introduction to data           
+Sep-10 7:00 pm | Probability                    
+Sep-17 7:00 pm | Distributions                  
+Sep-24 7:00 pm |                                
+Oct-1  7:00 pm | Foundation for Inference       
+Oct-8  7:00 pm |                                
+Oct-15 7:00 pm | Inference for Numerical Data   
+Oct-22 7:00 pm | Inference for Categorical Data 
+Oct-29 7:00 pm |                                
+Nov-5  7:00 pm | Linear Regression              
+Nov-12 7:00 pm |                                
+Nov-19 7:00 pm | Multiple & Logistic Regression 
+Dec-3  7:00 pm | Intro to Bayesian Analysis     
+Dec-10 7:00 pm | Final Exam Review              
+Dec-17 7:00 pm | Conclusions                    
 
 ## Textbooks
 
@@ -245,8 +247,8 @@ Once everything is installed, execute the following command in RStudio to instal
 
 ```
 install.packages(c('openintro','OIdata','devtools','ggplot2','psych','reshape2',
-				   'knitr','markdown'), repos='http://cran.r-project.org')
-devtools::install_github("seankross/lego")
+				   'knitr','markdown'))
+devtools::install_github("jbryer/IS606")
 ```
 
 Here are some resources to help you learn and use R and R Markdown:

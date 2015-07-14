@@ -10,6 +10,7 @@ output:
 ### Homework
 
 *OpenIntro Statistics*
+
 * Practice:
 * Graded:
 
