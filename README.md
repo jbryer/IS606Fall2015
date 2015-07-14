@@ -87,22 +87,23 @@ There will be weekly meetups. You are encouraged to attend as many as you can bu
 
 Date           | Topic                          
 ---------------|--------------------------------
-Aug-27 7:00 pm | Introduction to the course     
-Sep-3  7:00 pm | Introduction to data           
-Sep-10 7:00 pm | Probability                    
-Sep-17 7:00 pm | Distributions                  
-Sep-24 7:00 pm |                                
-Oct-1  7:00 pm | Foundation for Inference       
-Oct-8  7:00 pm |                                
-Oct-15 7:00 pm | Inference for Numerical Data   
-Oct-22 7:00 pm | Inference for Categorical Data 
-Oct-29 7:00 pm |                                
-Nov-5  7:00 pm | Linear Regression              
-Nov-12 7:00 pm |                                
-Nov-19 7:00 pm | Multiple & Logistic Regression 
-Dec-3  7:00 pm | Intro to Bayesian Analysis     
-Dec-10 7:00 pm | Final Exam Review              
-Dec-17 7:00 pm | Conclusions                    
+Aug-27 7:00 pm | Introduction to the course
+Sep-3  7:00 pm | Introduction to data
+Sep-10 7:00 pm | Probability
+Sep-17 7:00 pm | Distributions
+Sep-24 7:00 pm | 
+Oct-1  7:00 pm | Foundation for Inference
+Oct-8  7:00 pm | 
+Oct-15 7:00 pm | Inference for Numerical Data
+Oct-22 7:00 pm | Inference for Categorical Data
+Oct-29 7:00 pm | 
+Nov-5  7:00 pm | Linear Regression
+Nov-12 7:00 pm | 
+Nov-19 7:00 pm | Multiple & Logistic Regression
+Dec-3  7:00 pm | Intro to Bayesian Analysis
+Dec-10 7:00 pm | Final Exam Review
+Dec-17 7:00 pm | Conclusions
+
 
 ## Textbooks
 
@@ -134,7 +135,6 @@ Wickham, H. *Advanced R.* Baca Raton, FL: Taylor & Francis Group.
 
 
 ## Homework Assignments
-
 
 * Chapter 1. (due Sept 6)
 	* Practice: 
@@ -173,62 +173,34 @@ These mini projects will have you explore statistical topics using R. For each p
 
 <li value='1'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab1/intro_to_data.html'>Introduction to Data</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab1/intro_to_data.Rmd?raw=true'>Template</a>)</li>
 
-<li value='2'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab2/probability.html'>Probability</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab2/probability.html?raw=true'>Template</a>)</li>
+<li value='2'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab2/probability.html'>Probability</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab2/probability.Rmd?raw=true'>Template</a>)</li>
 
-<li value='3'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab3/normal_distribution.html'>Distributions of Random Variables</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab3/normal_distribution.html?raw=true'>Template</a>)</li>
+<li value='3'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab3/normal_distribution.html'>Distributions of Random Variables</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab3/normal_distribution.Rmd?raw=true'>Template</a>)</li>
 
-<li value='4'> Foundations for Statistical Inference <ol type="A">
-    <li> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4a/sampling_distributions.html'>Sampling Distributions</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4a/sampling_distributions.html?raw=true'>Template</a>)</li>
-    <li> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4b/confidence_intervals.html'>Confidence Levels</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4b/confidence_intervals.html?raw=true'>Template</a>)</li>
+<li value='4'> Foundations for Statistical Inference 
+<ol type="A">
+<li> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4a/sampling_distributions.html'>Sampling Distributions</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4a/sampling_distributions.Rmd?raw=true'>Template</a>)</li>
+<li> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4b/confidence_intervals.html'>Confidence Levels</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab4b/confidence_intervals.Rmd?raw=true'>Template</a>)</li>
 </ol></li>
 
-<li value='5'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab5/inf_for_numerical_data.html'>Inference for Numerical Data</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab5/inf_for_numerical_data.html?raw=true'>Template</a>)</li>
+<li value='5'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab5/inf_for_numerical_data.html'>Inference for Numerical Data</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab5/inf_for_numerical_data.Rmd?raw=true'>Template</a>)</li>
 
-<li value='6'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab6/inf_for_categorical_data.html'>Inference for Categorical Data</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab6/inf_for_categorical_data.html?raw=true'>Template</a>)</li>
+<li value='6'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab6/inf_for_categorical_data.html'>Inference for Categorical Data</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab6/inf_for_categorical_data.Rmd?raw=true'>Template</a>)</li>
 
-<li value='7'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab7/simple_regression.html'>Introduction to Linear Regression</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab7/simple_regression.html?raw=true'>Template</a>)</li>
+<li value='7'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab7/simple_regression.html'>Introduction to Linear Regression</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab7/simple_regression.Rmd?raw=true'>Template</a>)</li>
 
-<li value='8'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab8/multiple_regression.html'>Multiple Linear Regerssion</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab8/multiple_regression.html?raw=true'>Template</a>)</li>
+<li value='8'> <a href='https://htmlpreview.github.io/?https://github.com/jbryer/IS606/blob/master/inst/labs/Lab8/multiple_regression.html'>Multiple Linear Regerssion</a> (<a href='https://github.com/jbryer/IS606/blob/master/inst/labs/Lab8/multiple_regression.Rmd?raw=true'>Template</a>)</li>
 </ol>
 
 
 ## Data Project
 
-For the data project, you are to select an open data source and write a report addresses the following five sections:
+The purpose of the data project is for you to conduct reproducible research using open access data. The final project will include an R Markdown file with all required data files so that anyone else can run your analysis. Your project will be made available to other students on this website. The proposal will be graded on a pass/fail basis. More details on the format of the project including templates are on this page: [https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.html](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.html)
 
-1. **Introduction**: What is your research question? Why do you care? Why should others care?
+**Important Dates:**
 
-2. **Data**: Write about the data from your proposal in text form. Address the following points:
-	* Data collection: Describe how the data were collected.
-	* Cases: What are the cases? (Remember: case = units of observation or units of experiment)
-	* Variables: What are the two variables you will be studying? State the type of each variable.
-	* Type of study: What is the type of study, observational or an experiment? Explain how you've arrived at your conclusion using information on the sampling and/or experimental design.
-	* Scope of inference - generalizability: Identify the population of interest, and whether the findings from this analysis can be generalized to that population, or, if not, a subsection of that population. Explain why or why not. Also discuss any potential sources of bias that might prevent generalizability.
-	* Scope of inference - causality: Can these data be used to establish causal links between the variables of interest? Explain why or why not.
-
-3. **Exploratory data analysis**: Perform relevant descriptive statistics, including summary statistics and visualization of the data. Also address what the exploratory data analysis suggests about your research question.
-
-4. **Inference**: If your data fails some conditions and you can't use a theoretical method, then you should use simulation. If you can use both methods, then you should use both methods. It is your responsibility to figure out the appropriate methodology.
-	* Check conditions
-	* Theoretical inference (if possible) - hypothesis test and confidence interval
-	* Simulation based inference - hypothesis test and confidence interval
-	* Brief description of methodology that reflects your conceptual understanding  
-
-
-5. **Conclusion**: Write a brief summary of your findings without repeating your statements from earlier. Also include a discussion of what you have learned about your research question and the data you collected. You may also want to include ideas for possible future research.
-
-You are not to use data sources used in class or the textbooks. Possible data sources:
-
-* RStudio data sources [http://blog.rstudio.org/2014/07/23/new-data-packages/](http://blog.rstudio.org/2014/07/23/new-data-packages/)
-* Analyze Survey Data for Free (ASDFree) has many open data sources that can be used [http://www.asdfree.com/](http://www.asdfree.com/)
-* The World Bank Data Catalog [http://datacatalog.worldbank.org/](http://datacatalog.worldbank.org/)
-* Google Public Data search engine [http://www.google.com/publicdata/directory](http://www.google.com/publicdata/directory)
-* Vanderbilt data sources [http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets)
-* Programme of International Student Assessment (PISA) [http://www.oecd.org/pisa/](http://www.oecd.org/pisa/)
-* Behavioral Risk Factor Surveillance System (BRFSS)
-* World Values Survey
-* American National Election Survey (ANES)
-* General Social Survey (GSS)
+* **Proposal due October 12**
+* **Final Project due December 7**
 
 
 ## Software
