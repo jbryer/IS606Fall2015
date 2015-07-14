@@ -137,8 +137,8 @@ Wickham, H. *Advanced R.* Baca Raton, FL: Taylor & Francis Group.
 ## Homework Assignments
 
 * Chapter 1. (due Sept 6)
-	* Practice: 
-	* Graded: 
+	* Practice: 1.7 (available in R using the `data(iris)` command), 1.9, 1.23, 1.33, 1.55, 1.69
+	* Graded: 1.8, 1.10, 1.28, 1.36, 1.48, 1.50, 1.56, 1.70
 * Chapter 2. (due Sept 13)
 	* Practice: 
 	* Graded: 
