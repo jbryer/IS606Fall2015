@@ -111,7 +111,7 @@ Dec-17 7:00 pm | Conclusions
 
 Diez, D.M., Barr, C.D., & Çetinkaya-Rundel, M. (2015). *OpenIntro Statistics (3rd Ed).* 
 
-> This is an open source textbook and can be downloaded in PDF format [here](https://github.com/jbryer/IS606Fall2015/blob/master/Textbook/OpenIntroStatistics2Ed.pdf?raw=true), from the [OpenIntro](http://www.openintro.org/stat/textbook.php) website, or a printed copy can be ordered from [Amazon](https://www.openintro.org/redirect.php?go=amazon_os3&referrer=/stat/textbook.php).
+> This is an open source textbook and can be downloaded in PDF format [here](https://github.com/jbryer/IS606Fall2015/blob/master/Textbook/os3.pdf?raw=true), from the [OpenIntro](http://www.openintro.org/stat/textbook.php) website, or a printed copy can be ordered from [Amazon](https://www.openintro.org/redirect.php?go=amazon_os3&referrer=/stat/textbook.php).
 
 Kruschke, J.K. (2014). *Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan (2nd Ed)*. London: Academic Press.
 
@@ -135,6 +135,8 @@ Wickham, H. *Advanced R.* Baca Raton, FL: Taylor & Francis Group.
 
 
 ## Homework Assignments
+
+The solutions to the practice problems are in the end of the book and do not need to be handed in. Graded assignments should be typed (preferably using R Markdown) or neatly hand written and scanned.
 
 * Chapter 1. (due Sept 6)
 	* Practice: 1.7 (available in R using the `data(iris)` command), 1.9, 1.23, 1.33, 1.55, 1.69
@@ -244,6 +246,9 @@ shiny_demo()              # Lists available Shiny apps
 * [O'Reilly Try R](http://tryr.codeschool.com/). Great tutorial on R where you can try R commands directly from the web browser.
 * [R Reference Card](http://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 * [Video Overview of RStudio](http://vimeo.com/97166163)
+* [R-Bloggers](http://www.r-bloggers.com/)
+* [Journal of Statistical Software](http://www.jstatsoft.org/)
+* [The R Journal](http://journal.r-project.org/)
 
 #### Learning R Markdown
 
