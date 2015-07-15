@@ -238,13 +238,13 @@ img {
 </ul></li>
 <li>Chapter 2. (due Sept 13)
 <ul>
-<li>Practice:</li>
-<li>Graded:</li>
+<li>Practice: 2.5, 2.7, 2.19, 2.29, 2.43</li>
+<li>Graded: 2.6, 2.8, 2.20, 2.30, 2.38, 2.44</li>
 </ul></li>
 <li>Chapter 3. (due Sept 27)
 <ul>
-<li>Practice:</li>
-<li>Graded:</li>
+<li>Practice: 3.1 (see <code>normalPlot</code>), 3.3, 3.17 (use <code>qqnormsim</code> from lab 3), 3.21, 3.37, 3.41</li>
+<li>Graded: 3.2 (see <code>normalPlot</code>), 3.4, 3.18 (use <code>qqnormsim</code> from lab 3), 3.22, 3.38, 3.42</li>
 </ul></li>
 <li>Chapter 4. (due Oct 11)
 <ul>
@@ -321,7 +321,7 @@ Foundations for Statistical Inference
 </div>
 <div id="data-project" class="section level2">
 <h2>Data Project</h2>
-<p>The purpose of the data project is for you to conduct reproducible research using open access data. The final project will include an R Markdown file with all required data files so that anyone else can run your analysis. Your project will be made available to other students on this website. The proposal will be graded on a pass/fail basis. More details on the format of the project including templates are on this page: <a href="https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.html"><a href="https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.html" class="uri">https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.html</a></a></p>
+<p>The purpose of the data project is for you to conduct reproducible research using open access data. The final project will include an R Markdown file with all required data files so that anyone else can run your analysis. Your project will be made available to other students on this website. The proposal will be graded on a pass/fail basis. More details on the format of the project including templates are on this page: <a href="https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.html"><a href="https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.md" class="uri">https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.md</a></a></p>
 <p><strong>Important Dates:</strong></p>
 <ul>
 <li><strong>Proposal due October 12</strong></li>
@@ -330,7 +330,7 @@ Foundations for Statistical Inference
 </div>
 <div id="software" class="section level2">
 <h2>Software</h2>
-<p>We will make use of <a href="http://r-project.org">R</a>, an open source statistics program and language. Be sure to <a href="http://cran.r-project.org/">install R</a> and <a href="http://rstudio.com">RStudio</a> on your own computers within the first week of the class.</p>
+<p>We will make use of <a href="http://r-project.org">R</a>, an open source statistics program and language. Be sure to <a href="http://cran.r-project.org/">install R</a> and <a href="http://rstudio.com">RStudio</a> on your own computers within the first few days of the class.</p>
 <ul>
 <li>R - <a href="http://cran.r-project.org/bin/windows/base/">Windows</a> or <a href="http://cran.r-project.org/bin/macosx/">Mac</a></li>
 <li>RStudio - <a href="http://www.rstudio.com/products/rstudio/download/">Download Windows or Mac version from here</a></li>
@@ -344,22 +344,34 @@ Foundations for Statistical Inference
 <pre><code>install.packages(c('openintro','OIdata','devtools','ggplot2','psych','reshape2',
                    'knitr','markdown'))
 devtools::install_github(&quot;jbryer/IS606&quot;)</code></pre>
-<p>Here are some resources to help you learn and use R and R Markdown:</p>
+<p>Many of the course resouces are available in the <code>IS606</code> R package. Here are some command to get started:</p>
+<pre><code>library('IS606')          # Load the package
+vignette(package='IS606') # Lists vignettes in the IS606 package
+vignette('os3')           # Loads a PDF of the OpenIntro Statistics book
+data(package='IS606')     # Lists data available in the package
+getLabs()                 # Returns a list of the available labs
+viewLab('Lab0')           # Opens Lab0 in the default web browser
+startLab('Lab0')          # Starts Lab0 (copies to getwd()), opens the Rmd file
+shiny_demo()              # Lists available Shiny apps</code></pre>
+<p>Learning R:</p>
 <ul>
+<li><a href="http://statmethods.net">Quick-R</a>. Kabakoff’s website. Great reference along with his book, *R in Action$.</li>
 <li><a href="http://tryr.codeschool.com/">O’Reilly Try R</a>. Great tutorial on R where you can try R commands directly from the web browser.</li>
 <li><a href="http://cran.r-project.org/doc/contrib/Short-refcard.pdf">R Reference Card</a></li>
 <li><a href="http://vimeo.com/97166163">Video Overview of RStudio</a></li>
+</ul>
+<p>Learning R Markdown:</p>
+<ul>
+<li><a href="http://vimeo.com/94181521">Video on RMarkdown by RStudio</a> - This 26 minute video talks about some updates to RMarkdown.</li>
 <li><a href="http://daringfireball.net/projects/markdown/basics">Markdown Basics</a>. Markdown is a way of formatting plain text documents mostly for the web. However, it has become for other writing tasks too. It has become popular because it focusses on writing and not formatting. The formatting is taken care later. The <a href="http://daringfireball.net/projects/markdown/basics">Markdown Basics</a> provides a nice introduction to Markdown.</li>
 <li><a href="http://rmarkdown.rstudio.com/">The R Markdown Website</a> has a nice introduction on how Markdown is extended to allow for the inclusion of R code and output.</li>
-<li><a href="https://github.com/jbryer/IS606Fall2015/blob/master/Resources/rmarkdown-cheatsheet.pdf?raw=true">Two page cheat sheet on R Markdown</a>.</li>
 <li><a href="https://www.youtube.com/watch?v=cFe1UJrj7lc">Video Introduction to R Markdown</a>. This short video (under 4 minutes) was recorded with an older version, so not all of the features and dialog boxes will look the same, but may be helpful.</li>
-<li><a href="http://vimeo.com/94181521">Video on RMarkdown by RStudio</a> - This 26 minute video talks about some updates to RMarkdown.</li>
 </ul>
 </div>
 <div id="contact" class="section level2">
 <h2>Contact</h2>
 <p>Office Hours (cell phone or using GoToMeeting): <strong>TBD</strong> and also by appointment throughout the week. You’re encouraged to schedule an appointment, but you can try to call anytime.</p>
-<p>You are encouraged to ask us questions on the “Ask Your Instructor” forum on the course discussion board where other students will be able to benefit from your inquiries.</p>
+<p>You are encouraged to ask us questions on the “Ask Your Instructor”&quot; forum on the course discussion board where other students will be able to benefit from your inquiries.</p>
 <p>For the most part, you can expect me to respond to questions by email within 24 to 48 hours. If you do not hear back from me within 48 hours of sending an email, please resend your message.</p>
 <p>I will be checking in on the course regularly, just about every day and likely several times each day. Please do not hesitate to ask if you have questions or concerns.</p>
 </div>

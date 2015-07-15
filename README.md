@@ -140,11 +140,11 @@ Wickham, H. *Advanced R.* Baca Raton, FL: Taylor & Francis Group.
 	* Practice: 1.7 (available in R using the `data(iris)` command), 1.9, 1.23, 1.33, 1.55, 1.69
 	* Graded: 1.8, 1.10, 1.28, 1.36, 1.48, 1.50, 1.56, 1.70
 * Chapter 2. (due Sept 13)
-	* Practice: 
-	* Graded: 
+	* Practice: 2.5, 2.7, 2.19, 2.29, 2.43
+	* Graded: 2.6, 2.8, 2.20, 2.30, 2.38, 2.44
 * Chapter 3. (due Sept 27)
-	* Practice: 
-	* Graded: 
+	* Practice: 3.1 (see `normalPlot`), 3.3, 3.17 (use `qqnormsim` from lab 3), 3.21, 3.37, 3.41
+	* Graded: 3.2 (see `normalPlot`), 3.4, 3.18 (use `qqnormsim` from lab 3), 3.22, 3.38, 3.42
 * Chapter 4. (due Oct 11)
 	* Practice: 
 	* Graded: 
@@ -195,7 +195,7 @@ These mini projects will have you explore statistical topics using R. For each p
 
 ## Data Project
 
-The purpose of the data project is for you to conduct reproducible research using open access data. The final project will include an R Markdown file with all required data files so that anyone else can run your analysis. Your project will be made available to other students on this website. The proposal will be graded on a pass/fail basis. More details on the format of the project including templates are on this page: [https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.html](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.html)
+The purpose of the data project is for you to conduct reproducible research using open access data. The final project will include an R Markdown file with all required data files so that anyone else can run your analysis. Your project will be made available to other students on this website. The proposal will be graded on a pass/fail basis. More details on the format of the project including templates are on this page: [https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.md](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Project/IS606_Data_Project.html)
 
 **Important Dates:**
 
@@ -205,7 +205,7 @@ The purpose of the data project is for you to conduct reproducible research usin
 
 ## Software
 
-We will make use of [R](http://r-project.org), an open source statistics program and language. Be sure to [install R](http://cran.r-project.org/) and [RStudio](http://rstudio.com) on your own computers within the first week of the class.
+We will make use of [R](http://r-project.org), an open source statistics program and language. Be sure to [install R](http://cran.r-project.org/) and [RStudio](http://rstudio.com) on your own computers within the first few days of the class.
 
 * R - [Windows](http://cran.r-project.org/bin/windows/base/) or [Mac](http://cran.r-project.org/bin/macosx/)
 * RStudio - [Download Windows or Mac version from here](http://www.rstudio.com/products/rstudio/download/)
@@ -223,22 +223,40 @@ install.packages(c('openintro','OIdata','devtools','ggplot2','psych','reshape2',
 devtools::install_github("jbryer/IS606")
 ```
 
-Here are some resources to help you learn and use R and R Markdown:
+#### The `IS606` R Package
 
+Many of the course resouces are available in the `IS606` R package. Here are some command to get started:
+
+```
+library('IS606')          # Load the package
+vignette(package='IS606') # Lists vignettes in the IS606 package
+vignette('os3')           # Loads a PDF of the OpenIntro Statistics book
+data(package='IS606')     # Lists data available in the package
+getLabs()                 # Returns a list of the available labs
+viewLab('Lab0')           # Opens Lab0 in the default web browser
+startLab('Lab0')          # Starts Lab0 (copies to getwd()), opens the Rmd file
+shiny_demo()              # Lists available Shiny apps
+```
+
+#### Learning R
+
+* [Quick-R](http://statmethods.net). Kabakoff's website. Great reference along with his book, *R in Action$.
 * [O'Reilly Try R](http://tryr.codeschool.com/). Great tutorial on R where you can try R commands directly from the web browser.
 * [R Reference Card](http://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 * [Video Overview of RStudio](http://vimeo.com/97166163)
+
+#### Learning R Markdown
+
+* [Video on RMarkdown by RStudio](http://vimeo.com/94181521) - This 26 minute video talks about some updates to RMarkdown.
 * [Markdown Basics](http://daringfireball.net/projects/markdown/basics). Markdown is a way of formatting plain text documents mostly for the web. However, it has become for other writing tasks too. It has become popular because it focusses on writing and not formatting. The formatting is taken care later. The [Markdown Basics](http://daringfireball.net/projects/markdown/basics) provides a nice introduction to Markdown.
 * [The R Markdown Website](http://rmarkdown.rstudio.com/) has a nice introduction on how Markdown is extended to allow for the inclusion of R code and output.
-* [Two page cheat sheet on R Markdown](https://github.com/jbryer/IS606Fall2015/blob/master/Resources/rmarkdown-cheatsheet.pdf?raw=true). 
 * [Video Introduction to R Markdown](https://www.youtube.com/watch?v=cFe1UJrj7lc). This short video (under 4 minutes) was recorded with an older version, so not all of the features and dialog boxes will look the same, but may be helpful.
-* [Video on RMarkdown by RStudio](http://vimeo.com/94181521) - This 26 minute video talks about some updates to RMarkdown.
 
 ## Contact
 
 Office Hours (cell phone or using GoToMeeting): **TBD** and also by appointment throughout the week.  You’re encouraged to schedule an appointment, but you can try to call anytime.
 
-You are encouraged to ask us questions on the “Ask Your Instructor” forum on the course discussion board where other students will be able to benefit from your inquiries.
+You are encouraged to ask us questions on the "Ask Your Instructor"" forum on the course discussion board where other students will be able to benefit from your inquiries.
 
 For the most part, you can expect me to respond to questions by email within 24 to 48 hours. If you do not hear back from me within 48 hours of sending an email, please resend your message.
 

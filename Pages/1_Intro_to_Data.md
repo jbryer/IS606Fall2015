@@ -49,7 +49,7 @@ startLab('Lab1')
 
 ## Videos
 
-*OpenIntro* provides a number of [videos](https://www.openintro.org/stat/videos.php. You may find these helpful while reading the chapter.
+*OpenIntro* provides a number of [videos](https://www.openintro.org/stat/videos.php). You may find these helpful while reading the chapter.
 
 [Case Study: Using Stents to Prevent Strokes](https://www.youtube.com/watch?list=PLkIselvEzpM6pZ76FD3NoCvvgkj_p-dE8&v=nEHFF1ADpWE)
 

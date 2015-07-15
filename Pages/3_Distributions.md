@@ -6,8 +6,8 @@
 
 *OpenIntro Statistics*
 
-* Practice:
-* Graded:
+* Practice: 3.1 (see `normalPlot`), 3.3, 3.17 (use `qqnormsim` from lab 3), 3.21, 3.37, 3.41
+* Graded: 3.2 (see `normalPlot`), 3.4, 3.18 (use `qqnormsim` from lab 3), 3.22, 3.38, 3.42
 
 ### Lab
 
