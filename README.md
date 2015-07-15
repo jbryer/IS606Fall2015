@@ -43,16 +43,16 @@ Probabilistic techniques are the foundation of many data science applications fr
 
 ### Grade Distribution
 
-Quality of Performance                     | Letter Grade | Range %   | GPA
--------------------------------------------|:------------:|:---------:|:----:
-Excellent - work is of exceptional quality |      A       | 93 - 100  |  4
-                                           |      A-      | 90 - 92.9 | 3.7
-Good - work is above average               |      B+      | 87 - 89.9 | 3.3
-Satisfactory                               |      B       | 83 - 86.9 |  3
-Below Average                              |      B-      | 80 - 82.9 | 2.7
-Poor                                       |      C+      | 77 - 79.9 | 2.3
-                                           |      C       | 70 - 76.9 |  2
-Failure                                    |      F       |   < 70    |  0
+Quality of Performance                     | Letter Grade | Range %   | GPA  |
+-------------------------------------------|:------------:|:---------:|:----:|
+Excellent - work is of exceptional quality |      A       | 93 - 100  |  4   |
+Excellent                                  |      A-      | 90 - 92.9 | 3.7  |
+Good - work is above average               |      B+      | 87 - 89.9 | 3.3  |
+Satisfactory                               |      B       | 83 - 86.9 |  3   |
+Below Average                              |      B-      | 80 - 82.9 | 2.7  |
+Poor                                       |      C+      | 77 - 79.9 | 2.3  |
+Poor                                       |      C       | 70 - 76.9 |  2   |
+Failure                                    |      F       |   < 70    |  0   |
 
 ## How This Course Works:
 
@@ -78,31 +78,31 @@ Oct-12 | Nov-1    | 5       | [Inference for Numerical Data](https://htmlpreview
 Oct-12 | Nov-1    | 6       | [Inference for Categorical Data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/6_Categorical_Data.html)
 Nov-2  | Nov-15   | 7       | [Linear Regression](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/7_Linear_Regression.html)
 Nov-16 | Nov-29   | 8       | [Multiple & Logistic Regression](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/8_Multiple_Regression.html)
-Nov-30 | Dec-13   |         | [Introduction to Bayesian Analysis](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/9_Bayesian.html)
+Nov-30 | Dec-13   | Kruschke | [Introduction to Bayesian Analysis](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/9_Bayesian.html)
 Dec-14 | Dec-17   |         | Final Exam (due by 5pm on Dec-17)
 
 #### Meetup Schedule
 
 There will be weekly meetups. You are encouraged to attend as many as you can but recordings will generally be availabe within a few days of the meetup.
 
-Date           | Topic                          
----------------|--------------------------------
-Aug-27 7:00 pm | Introduction to the course
-Sep-3  7:00 pm | Introduction to data
-Sep-10 7:00 pm | Probability
-Sep-17 7:00 pm | Distributions
-Sep-24 7:00 pm | 
-Oct-1  7:00 pm | Foundation for Inference
-Oct-8  7:00 pm | 
-Oct-15 7:00 pm | Inference for Numerical Data
-Oct-22 7:00 pm | Inference for Categorical Data
-Oct-29 7:00 pm | 
-Nov-5  7:00 pm | Linear Regression
-Nov-12 7:00 pm | 
-Nov-19 7:00 pm | Multiple & Logistic Regression
-Dec-3  7:00 pm | Intro to Bayesian Analysis
-Dec-10 7:00 pm | Final Exam Review
-Dec-17 7:00 pm | Conclusions
+Date           | Topic                           |
+---------------|:--------------------------------|
+Aug-27 7:00 pm | Introduction to the course      |
+Sep-3  7:00 pm | Introduction to data            |
+Sep-10 7:00 pm | Probability                     |
+Sep-17 7:00 pm | Distributions                   |
+Sep-24 7:00 pm |                                 |
+Oct-1  7:00 pm | Foundation for Inference        |
+Oct-8  7:00 pm |                                 |
+Oct-15 7:00 pm | Inference for Numerical Data    |
+Oct-22 7:00 pm | Inference for Categorical Data  |
+Oct-29 7:00 pm |                                 |
+Nov-5  7:00 pm | Linear Regression               |
+Nov-12 7:00 pm |                                 |
+Nov-19 7:00 pm | Multiple & Logistic Regression  |
+Dec-3  7:00 pm | Intro to Bayesian Analysis      |
+Dec-10 7:00 pm | Final Exam Review               |
+Dec-17 7:00 pm | Conclusions                     |
 
 
 ## Textbooks
@@ -242,7 +242,7 @@ shiny_demo()              # Lists available Shiny apps
 
 #### Learning R
 
-* [Quick-R](http://statmethods.net). Kabakoff's website. Great reference along with his book, *R in Action$.
+* [Quick-R](http://statmethods.net). Kabakoff's website. Great reference along with his book, *R in Action*.
 * [O'Reilly Try R](http://tryr.codeschool.com/). Great tutorial on R where you can try R commands directly from the web browser.
 * [R Reference Card](http://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 * [Video Overview of RStudio](http://vimeo.com/97166163)
