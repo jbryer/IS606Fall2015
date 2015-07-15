@@ -136,7 +136,7 @@ Wickham, H. *Advanced R.* Baca Raton, FL: Taylor & Francis Group.
 
 ## Homework Assignments
 
-The solutions to the practice problems are in the end of the book and do not need to be handed in. Graded assignments should be typed (preferably using R Markdown) or neatly hand written and scanned.
+The solutions to the practice problems are at the end of the book and do not need to be handed in. Graded assignments should be typed (preferably using R Markdown) or neatly hand written and scanned.
 
 * Chapter 1. (due Sept 6)
 	* Practice: 1.7 (available in R using the `data(iris)` command), 1.9, 1.23, 1.33, 1.55, 1.69
@@ -256,6 +256,10 @@ shiny_demo()              # Lists available Shiny apps
 * [Markdown Basics](http://daringfireball.net/projects/markdown/basics). Markdown is a way of formatting plain text documents mostly for the web. However, it has become for other writing tasks too. It has become popular because it focusses on writing and not formatting. The formatting is taken care later. The [Markdown Basics](http://daringfireball.net/projects/markdown/basics) provides a nice introduction to Markdown.
 * [The R Markdown Website](http://rmarkdown.rstudio.com/) has a nice introduction on how Markdown is extended to allow for the inclusion of R code and output.
 * [Video Introduction to R Markdown](https://www.youtube.com/watch?v=cFe1UJrj7lc). This short video (under 4 minutes) was recorded with an older version, so not all of the features and dialog boxes will look the same, but may be helpful.
+
+#### Creating Math Equations
+
+Occasionally you will need to type equations in homework and labs. R Markdown supports LaTeX style equations using the [MathJax](https://www.mathjax.org/) javascript library. I do not expect you to learn LaTeX for this course. Instead, I recommend using the free application [Daum Equation Editor](). It availabe [online](https://www.mathjax.org/), as a [Google Chrome Extension](https://chrome.google.com/webstore/detail/daum-equation-editor/dinfmiceliiomokeofbocegmacmagjhe?hl=en), or as a standalone [Mac Application](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0CC4QFjACahUKEwiegvqQod3GAhUCmYAKHctnA5M&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fdaum-equation-editor%2Fid540665783%3Fmt%3D12&ei=WGKmVZ72DIKyggTLz42YCQ&usg=AFQjCNH69beGYAfr5ojnPILLNOG-goN9sw&sig2=Qw7QV80X8gZjrNyY9PkMHA). For more details, [go to this page: http://github.com/jbryer/IS606Fall2015/Pages/Equations.md](https://htmlpreview.github.io/?http://github.com/jbryer/IS606Fall2015/Pages/Equations.html)
 
 ## Contact
 
