@@ -1,11 +1,27 @@
 # IS606 Data Project
 
-* [Download project proposal template]()
-* [Download project template]()
+* [Download project proposal template](https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Project/IS606_proposal_template.Rmd)
+* [Download project template](https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Project/IS606_project_template.Rmd)
 
-### Project Format
+The purpose of the data project is for you to conduct a reproducible analysis with a data set of your choosing. There are two components to the project, the proposal, which will be graded on a pass/fail basis, and the final report. The outline for each of these are provided in the templates. When submitting the assignments, include the R Markdown file (change the name to include your last name, for example `Bryer-Proposal.Rmd` and `Bryer-Project.Rmd`) along with any supplementary files necessary to run the R Markdown file (e.g. data files, screenshots, etc.). Suggestions for possible data sources are included below, however you are free to use data not listed below. The only requirement is that you are allowed to share the data. Projects will be shared with others on this website so should be presented in a way that other students can reproduce your analysis.
 
-For the data project, you are to select an open data source and write a report addresses the following five sections:
+### Project Proposal
+
+The proposal can be more informal using bullet points where necessary and include R code and output. You must address the following areas:
+
+* Research question 
+* What are the cases, and how many are there?
+* Describe the method of data collection.
+* What type of study is this (observational/experiment)?
+* Data Source: If you collected the data, state self-collected. If not, provide a citation/link.
+* Response: What is the response variable, and what type is it (numerical/categorical)?
+* Explanatory: What is the explanatory variable(s), and what type is it (numerical/categorival)?
+* Relevant summary statistics 
+
+
+### Final Project Format
+
+The final report should be presented in more formal format. Consider your audience to be non data analysts. Fellow data analysts (i.e. students) will be able to access your R Markdown file for details on the analysis. Submit a Zip file with your R Markdown file, the HTML output, and any supplementary files (e.g. data, figures, etc.). You must address the five following sections:
 
 1. **Introduction**: What is your research question? Why do you care? Why should others care?
 
@@ -25,12 +41,11 @@ For the data project, you are to select an open data source and write a report a
 	* Simulation based inference - hypothesis test and confidence interval
 	* Brief description of methodology that reflects your conceptual understanding  
 
-
 5. **Conclusion**: Write a brief summary of your findings without repeating your statements from earlier. Also include a discussion of what you have learned about your research question and the data you collected. You may also want to include ideas for possible future research.
 
 ### Data Sources
 
-You are not to use data sources used in class or the textbooks. Possible data sources:
+You are not to use data sources used in class or the textbooks. Possible data sources include, but are not limited to:
 
 * RStudio data sources [http://blog.rstudio.org/2014/07/23/new-data-packages/](http://blog.rstudio.org/2014/07/23/new-data-packages/)
 * Analyze Survey Data for Free (ASDFree) has many open data sources that can be used [http://www.asdfree.com/](http://www.asdfree.com/)
@@ -38,9 +53,10 @@ You are not to use data sources used in class or the textbooks. Possible data so
 * Google Public Data search engine [http://www.google.com/publicdata/directory](http://www.google.com/publicdata/directory)
 * Vanderbilt data sources [http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets)
 * Programme of International Student Assessment (PISA) [http://www.oecd.org/pisa/](http://www.oecd.org/pisa/)
-* Behavioral Risk Factor Surveillance System (BRFSS)
-* World Values Survey
-* American National Election Survey (ANES)
-* General Social Survey (GSS)
+* Behavioral Risk Factor Surveillance System (BRFSS) [http://www.cdc.gov/brfss/](http://www.cdc.gov/brfss/)
+* World Values Survey [http://www.worldvaluessurvey.org/wvs.jsp](http://www.worldvaluessurvey.org/wvs.jsp)
+* American National Election Survey (ANES) [http://www.electionstudies.org/](http://www.electionstudies.org/)
+* General Social Survey (GSS) [http://www3.norc.org/GSS+Website/](http://www3.norc.org/GSS+Website/)
+* Integrated Postsecondary Education Data System (IPEDS) [https://nces.ed.gov/ipeds/](https://nces.ed.gov/ipeds/)
 
 

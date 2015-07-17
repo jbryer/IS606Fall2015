@@ -136,7 +136,7 @@ Wickham, H. *Advanced R.* Baca Raton, FL: Taylor & Francis Group.
 
 ## Homework Assignments
 
-The solutions to the practice problems are at the end of the book and do not need to be handed in. Graded assignments should be typed (preferably using R Markdown) or neatly hand written and scanned.
+The solutions to the practice problems are at the end of the book and do not need to be handed in. Graded assignments should be typed (preferably using R Markdown) or neatly hand written and scanned. Data for the homework assignments, and for within the chapters too, can be downloaded [here](https://github.com/jbryer/IS606Fall2015/blob/master/Data/os2_data.zip?raw=true).
 
 * Chapter 1. (due Sept 6)
 	* Practice: 1.7 (available in R using the `data(iris)` command), 1.9, 1.23, 1.33, 1.55, 1.69
