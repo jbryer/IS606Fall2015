@@ -65,6 +65,8 @@ Further details on each of these assignments will be available in Blackboard.
 
 ## Schedule
 
+<iframe src="https://www.google.com/calendar/embed?src=a2rjg9fjput8at2t9hubnc3eag%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 *NOTE: Tentative. Subject to change*  
 *Homework and Labs are due on the last day of the section*
 
