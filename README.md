@@ -58,14 +58,14 @@ Failure                                    |      F       |   < 70    |  0   |
 
 This course is conducted entirely online. Each week, you will have various resources made available, including weekly readings from the textbooks and occasionally additional readings provided by the instructor. Most weeks will have homework assignments to be submitted. There will also be a presentation required and a forum post introduction required. You are expected to complete all assignments by their due dates.
 
-Meetup presentations will comprise the solution and presentation to the class of one of the suggested problems for study from the weekly materials (not the homework problems). Each student must present one problem throughout the semester. Problems are chosen by posting you selection in the appropriate discussion forum in the course. Problems are assigned first come, first served, so any problem not already chosen by another student is available.
+Meetup presentations will comprise the solution and presentation to the class of one of the suggested problems for study from the weekly materials (not the graded homework problems). Each student must present one problem throughout the semester. Problems are chosen by entering your name and problem [in the Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fyy-azER3lViyZUbPoSZOOdDUWtw1sq-sm2qHscPHxA/edit?usp=sharing). Note there is a maximum of three presentatiosn per meetup and presentations should be no more than five minutes. Additionally, prepare your presentation so that the slides or document (I suggest using R Markdown) will be shared on the course website. Problems are assigned first come, first served, so any problem not already chosen by another student is available.
+
+[Presentation Signup Sheet](https://docs.google.com/spreadsheets/d/1fyy-azER3lViyZUbPoSZOOdDUWtw1sq-sm2qHscPHxA/edit?usp=sharing)
 
 Further details on each of these assignments will be available in Blackboard.
 
 
 ## Schedule
-
-<iframe src="https://www.google.com/calendar/embed?src=a2rjg9fjput8at2t9hubnc3eag%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 *NOTE: Tentative. Subject to change*  
 *Homework and Labs are due on the last day of the section*
@@ -86,6 +86,9 @@ Dec-14 | Dec-17   |         | Final Exam (due by 5pm on Dec-17)
 #### Meetup Schedule
 
 There will be weekly meetups. You are encouraged to attend as many as you can but recordings will generally be availabe within a few days of the meetup.
+
+[Presentation Signup Sheet](https://docs.google.com/spreadsheets/d/1fyy-azER3lViyZUbPoSZOOdDUWtw1sq-sm2qHscPHxA/edit?usp=sharing)
+
 
 Date           | Topic                           |
 ---------------|:--------------------------------|
