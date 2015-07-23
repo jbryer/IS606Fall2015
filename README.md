@@ -69,15 +69,16 @@ Further details on each of these assignments will be available in Blackboard and
 
 *NOTE: Tentative. Subject to change*  
 
-<a href="#" onClick="window.open('Calendar.html','IS606 Calendar','resizable,height=620,width=820'); return false;">Google Calendar for IS 606</a><noscript>You need Javascript to use the previous link or use <a href="Calendar.html" target="_blank">Google Calendar for IS 606</a></noscript>
+<!-- a href="#" onClick="window.open('Calendar.html','IS606 Calendar','resizable,height=620,width=820'); return false;">Google Calendar for IS 606</a><noscript>You need Javascript to use the previous link or use <a href="Calendar.html" target="_blank">Google Calendar for IS 606</a></noscript -->
 
+[Google Calendar for IS 606](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Calendar.html)
 
 Start  | Due Date | Chapter | Topic                              
 -------|----------|:-------:|:-----------------------------------
 Aug-27 | Sep-6    | 1       | [Intro to Data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/1_Intro_to_Data.html)
 Sep-7  | Sep-13   | 2       | [Probability](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/2_Probability.html)
 Sep-14 | Sep-27   | 3       | [Distributions](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/3_Distributions.html)
-Sep-28 | Oct-11   | 4       | [Foundation for Inference](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/4_Foundations_for_inference.html)
+Sep-28 | Oct-11   | 4       | [Foundation for Inference](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/4_Foundations_for_Inference.html)
 Oct-12 | Nov-1    | 5       | [Inference for Numerical Data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/5_Numerical_Data.html)
 Oct-12 | Nov-1    | 6       | [Inference for Categorical Data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/6_Categorical_Data.html)
 Nov-2  | Nov-15   | 7       | [Linear Regression](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Pages/7_Linear_Regression.html)
