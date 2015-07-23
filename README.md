@@ -3,7 +3,7 @@
 **Instructor:** Jason Bryer, Ph.D.  
 **Class Meetup:** Thursday 7:00pm to 8:00pm  
 **Office Hours:** By appointment  
-**Email:** [jason.bryer@gmail.com](mailto:jason.bryer@gmail.com?Subject=IS606)  
+**Email:** <a href="mailto:jason.bryer@gmail.com?Subject=IS606">jason.bryer@gmail.com</a>    
 **Phone:** 518-464-8594  
 
 ## Course Description
@@ -62,13 +62,15 @@ Meetup presentations will comprise the solution and presentation to the class of
 
 [Presentation Signup Sheet](https://docs.google.com/spreadsheets/d/1fyy-azER3lViyZUbPoSZOOdDUWtw1sq-sm2qHscPHxA/edit?usp=sharing)
 
-Further details on each of these assignments will be available in Blackboard.
+Further details on each of these assignments will be available in Blackboard and/or [this Github repository](https://github.com/jbryer/IS606Fall2015).
 
 
 ## Schedule
 
 *NOTE: Tentative. Subject to change*  
-*Homework and Labs are due on the last day of the section*
+
+<a href="#" onClick="window.open('Calendar.html','IS606 Calendar','resizable,height=620,width=820'); return false;">Google Calendar for IS 606</a><noscript>You need Javascript to use the previous link or use <a href="Calendar.html" target="_blank">Google Calendar for IS 606</a></noscript>
+
 
 Start  | Due Date | Chapter | Topic                              
 -------|----------|:-------:|:-----------------------------------
@@ -206,7 +208,7 @@ The purpose of the data project is for you to conduct reproducible research usin
 
 **Important Dates:**
 
-* **Proposal due October 12**
+* **Proposal due October 19**
 * **Final Project due December 7**
 
 
