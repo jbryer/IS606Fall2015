@@ -108,7 +108,7 @@ Oct-29 7:00 pm |                                 |
 Nov-5  7:00 pm | Linear Regression               |
 Nov-12 7:00 pm |                                 |
 Nov-19 7:00 pm | Multiple & Logistic Regression  |
-Dec-3  7:00 pm | Intro to Bayesian Analysis      |
+TBD            | Intro to Bayesian Analysis      |
 Dec-10 7:00 pm | Final Exam Review               |
 Dec-17 7:00 pm | Conclusions                     |
 
