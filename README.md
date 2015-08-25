@@ -35,11 +35,12 @@ Probabilistic techniques are the foundation of many data science applications fr
 
 ## Grading
 
-* Homework (20%)
-* Labs (35%)
+* Homework (18%)
+* Labs (36%)
 * Data Project (20%)
 * Final exam (20%)
 * Meetup Presentation (5%)
+* Getting Aquainted (1%)
 
 ### Grade Distribution
 
