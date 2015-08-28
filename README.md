@@ -96,7 +96,7 @@ There will be weekly meetups. You are encouraged to attend as many as you can bu
 
 Date           | Topic                           |
 ---------------|:--------------------------------|
-Aug-27 7:00 pm | Introduction to the course      |
+Aug-27 7:00 pm | [Introduction to the course](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-08-27-Intro_to_Course.html#1)      |
 Sep-3  7:00 pm | Introduction to data            |
 Sep-10 7:00 pm | Probability                     |
 Sep-17 7:00 pm | Distributions                   |
