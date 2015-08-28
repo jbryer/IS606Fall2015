@@ -47,6 +47,7 @@ The final report should be presented in more formal format. Consider your audien
 
 You are not to use data sources used in class or the textbooks. Possible data sources include, but are not limited to:
 
+* FiveThirtyEight [https://github.com/fivethirtyeight/data](https://github.com/fivethirtyeight/data)
 * RStudio data sources [http://blog.rstudio.org/2014/07/23/new-data-packages/](http://blog.rstudio.org/2014/07/23/new-data-packages/)
 * Analyze Survey Data for Free (ASDFree) has many open data sources that can be used [http://www.asdfree.com/](http://www.asdfree.com/)
 * The World Bank Data Catalog [http://datacatalog.worldbank.org/](http://datacatalog.worldbank.org/)
