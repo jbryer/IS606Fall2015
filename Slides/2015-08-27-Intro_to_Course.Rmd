@@ -46,11 +46,11 @@ A little about me:
 
 ## Also a Father...
 
-<center><img src='Florida_Beach.jpg' height='500'></center>
+<center><img src='images/Florida_Beach.jpg' height='500'></center>
 
 ## And photographer.
 
-<center><img src='Sleeping_Empire.jpg' height='500'></center>
+<center><img src='images/Sleeping_Empire.jpg' height='500'></center>
 
 ## Syllabus
 
