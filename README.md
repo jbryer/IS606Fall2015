@@ -96,22 +96,22 @@ There will be weekly meetups. You are encouraged to attend as many as you can bu
 
 Date           | Topic                           |
 ---------------|:--------------------------------|
-Aug-27 7:00 pm | [Introduction to the course](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-08-27-Intro_to_Course.html#1)      |
-Sep-3  7:00 pm | [Introduction to data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-03-Intro_to_Data.html#1)            |
-Sep-10 7:00 pm | Probability                     |
-Sep-17 7:00 pm | Distributions                   |
-Sep-24 7:00 pm |                                 |
-Oct-1  7:00 pm | Foundation for Inference        |
-Oct-8  7:00 pm |                                 |
-Oct-15 7:00 pm | Inference for Numerical Data    |
-Oct-22 7:00 pm | Inference for Categorical Data  |
-Oct-29 7:00 pm |                                 |
-Nov-5  7:00 pm | Linear Regression               |
-Nov-12 7:00 pm |                                 |
-Nov-19 7:00 pm | Multiple & Logistic Regression  |
+Thursday Aug-27 7:00 pm | [Introduction to the course](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-08-27-Intro_to_Course.html#1)      |
+Thursday Sep-3  7:00 pm | [Introduction to data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-03-Intro_to_Data.html#1)            |
+Thursday Sep-10 7:00 pm | Probability                     |
+Wednesday Sep-16 7:00 pm | Distributions                   |
+Thursday Sep-24 7:00 pm |                                 |
+Thursday Oct-1  7:00 pm | Foundation for Inference        |
+Thursday Oct-8  7:00 pm |                                 |
+Thursday Oct-15 7:00 pm | Inference for Numerical Data    |
+Thursday Oct-22 7:00 pm | Inference for Categorical Data  |
+Thursday Oct-29 7:00 pm |                                 |
+Thursday Nov-5  7:00 pm | Linear Regression               |
+Thursday Nov-12 7:00 pm |                                 |
+Thursday Nov-19 7:00 pm | Multiple & Logistic Regression  |
 TBD            | Intro to Bayesian Analysis      |
-Dec-10 7:00 pm | Final Exam Review               |
-Dec-17 7:00 pm | Conclusions                     |
+Thursday Dec-10 7:00 pm | Final Exam Review               |
+Thursday Dec-17 7:00 pm | Conclusions                     |
 
 
 ## Textbooks
