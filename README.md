@@ -96,9 +96,9 @@ There will be weekly meetups. You are encouraged to attend as many as you can bu
 
 Date           | Topic                           |
 ---------------|:--------------------------------|
-Thursday Aug-27 7:00 pm | [Introduction to the course](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-08-27-Intro_to_Course.html#1)      |
-Thursday Sep-3  7:00 pm | [Introduction to data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-03-Intro_to_Data.html#1)            |
-Thursday Sep-10 7:00 pm | Probability                     |
+Thursday Aug-27 7:00 pm | [Introduction to the course](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-08-27-Intro_to_Course.html#1) |
+Thursday Sep-3  7:00 pm | [Introduction to data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-03-Intro_to_Data.html#1) |
+Thursday Sep-10 7:00 pm | [Probability](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-10-Probability.html#1) |
 Tuesday Sep-15 7:00 pm | Distributions                   |
 Thursday Sep-24 7:00 pm |                                 |
 Thursday Oct-1  7:00 pm | Foundation for Inference        |
