@@ -100,7 +100,7 @@ Thursday Aug-27 7:00 pm | [Introduction to the course](https://htmlpreview.githu
 Thursday Sep-3  7:00 pm | [Introduction to data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-03-Intro_to_Data.html#1) |
 Thursday Sep-10 7:00 pm | [Probability](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-10-Probability.html#1) |
 Tuesday Sep-15 7:00 pm | [Distributions Part I](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-15-Distributions.html#1) |
-Thursday Sep-24 7:00 pm |                                 |
+Thursday Sep-24 7:00 pm | Distributions Part II           |
 Thursday Oct-1  7:00 pm | Foundation for Inference        |
 Thursday Oct-8  7:00 pm |                                 |
 Thursday Oct-15 7:00 pm | Inference for Numerical Data    |
@@ -157,14 +157,14 @@ The solutions to the practice problems are at the end of the book and do not nee
 	* Practice: 3.1 (see `normalPlot`), 3.3, 3.17 (use `qqnormsim` from lab 3), 3.21, 3.37, 3.41
 	* Graded: 3.2 (see `normalPlot`), 3.4, 3.18 (use `qqnormsim` from lab 3), 3.22, 3.38, 3.42
 * Chapter 4. (due Oct 11)
-	* Practice: 
-	* Graded: 
+	* Practice: 4.3, 4.13, 4.23, 4.25, 4.39, 4.47
+	* Graded: 4.4, 4.14, 4.24, 4.26, 4.34, 4.40, 4.48
 * Chapter 5. (due Nov 1)
-	* Practice: 
-	* Graded: 
+	* Practice: 5.5, 5.13, 5.19, 5.31, 5.45
+	* Graded: 5.6, 5.14, 5.20, 5.32, 5.48
 * Chapter 6. (due Nov 1)
-	* Practice: 
-	* Graded: 
+	* Practice: 6.5, 6.11, 6.27, 6.43, 6.47
+	* Graded: 6.6, 6.12, 6.20, 6.28, 6.44, 6.48
 * Chapter 7. (due Nov 15)
 	* Practice: 
 	* Graded: 
