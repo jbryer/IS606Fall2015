@@ -100,7 +100,7 @@ Thursday Aug-27 7:00 pm | [Introduction to the course](https://htmlpreview.githu
 Thursday Sep-3  7:00 pm | [Introduction to data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-03-Intro_to_Data.html#1) |
 Thursday Sep-10 7:00 pm | [Probability](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-10-Probability.html#1) |
 Tuesday Sep-15 7:00 pm | [Distributions Part I](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-15-Distributions.html#1) |
-Thursday Sep-24 7:00 pm | Distributions Part II           |
+Thursday Sep-24 7:00 pm | [Distributions Part II](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-24-Distributions2.html#1)           |
 Thursday Oct-1  7:00 pm | Foundation for Inference        |
 Thursday Oct-8  7:00 pm |                                 |
 Thursday Oct-15 7:00 pm | Inference for Numerical Data    |
@@ -141,7 +141,7 @@ Wickham, H. *Advanced R.* Baca Raton, FL: Taylor & Francis Group.
 * [Probability Tables](https://github.com/jbryer/IS606Fall2015/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
 * [Inference Guide](https://github.com/jbryer/IS606Fall2015/blob/master/Textbook/os2_extra_inference_guide.pdf?raw=true)
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-
+* [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 
 ## Homework Assignments
 
