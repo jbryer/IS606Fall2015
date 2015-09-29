@@ -27,6 +27,8 @@ output:
 
 ## Videos
 
+[Playlist of Kruschke Videos on Bayesian Analysis](https://www.youtube.com/playlist?list=PL_mlm7M63Y7j641Y7QJG3TfSxeZMGOsQ4)
+
 [Bayesian Methods Interpret Data Better](https://www.youtube.com/watch?v=YyohWpjl6KU)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/YyohWpjl6KU" frameborder="0" allowfullscreen></iframe>
@@ -38,5 +40,9 @@ output:
 [Precision is the goal](https://www.youtube.com/watch?v=lh5btlAvrLs)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/lh5btlAvrLs" frameborder="0" allowfullscreen></iframe>
+
+[Rasmus Bååth’s useR! 2015 presentation](http://www.sumsar.net/blog/2015/07/tiny-data-and-the-socks-of-karl-broman-the-movie/)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/nKCT-Cdk0xY" frameborder="0" allowfullscreen></iframe>
 
 

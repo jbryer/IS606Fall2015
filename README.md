@@ -96,22 +96,22 @@ There will be weekly meetups. You are encouraged to attend as many as you can bu
 
 Date           | Topic                           |
 ---------------|:--------------------------------|
-Aug-27 7:00 pm | [Introduction to the course](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-08-27-Intro_to_Course.html#1)      |
-Sep-3  7:00 pm | Introduction to data            |
-Sep-10 7:00 pm | Probability                     |
-Sep-17 7:00 pm | Distributions                   |
-Sep-24 7:00 pm |                                 |
-Oct-1  7:00 pm | Foundation for Inference        |
-Oct-8  7:00 pm |                                 |
-Oct-15 7:00 pm | Inference for Numerical Data    |
-Oct-22 7:00 pm | Inference for Categorical Data  |
-Oct-29 7:00 pm |                                 |
-Nov-5  7:00 pm | Linear Regression               |
-Nov-12 7:00 pm |                                 |
-Nov-19 7:00 pm | Multiple & Logistic Regression  |
+Thursday Aug-27 7:00 pm | [Introduction to the course](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-08-27-Intro_to_Course.html#1) |
+Thursday Sep-3  7:00 pm | [Introduction to data](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-03-Intro_to_Data.html#1) |
+Thursday Sep-10 7:00 pm | [Probability](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-10-Probability.html#1) |
+Tuesday Sep-15 7:00 pm | [Distributions Part I](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-15-Distributions.html#1) |
+Thursday Sep-24 7:00 pm | [Distributions Part II](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-24-Distributions2.html#1)           |
+Thursday Oct-1  7:00 pm | Foundation for Inference        |
+Thursday Oct-8  7:00 pm |                                 |
+Thursday Oct-15 7:00 pm | Inference for Numerical Data    |
+Thursday Oct-22 7:00 pm | Inference for Categorical Data  |
+Thursday Oct-29 7:00 pm |                                 |
+Thursday Nov-5  7:00 pm | Linear Regression               |
+Thursday Nov-12 7:00 pm |                                 |
+Thursday Nov-19 7:00 pm | Multiple & Logistic Regression  |
 TBD            | Intro to Bayesian Analysis      |
-Dec-10 7:00 pm | Final Exam Review               |
-Dec-17 7:00 pm | Conclusions                     |
+Thursday Dec-10 7:00 pm | Final Exam Review               |
+Thursday Dec-17 7:00 pm | Conclusions                     |
 
 
 ## Textbooks
@@ -141,7 +141,7 @@ Wickham, H. *Advanced R.* Baca Raton, FL: Taylor & Francis Group.
 * [Probability Tables](https://github.com/jbryer/IS606Fall2015/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
 * [Inference Guide](https://github.com/jbryer/IS606Fall2015/blob/master/Textbook/os2_extra_inference_guide.pdf?raw=true)
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-
+* [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 
 ## Homework Assignments
 
@@ -157,14 +157,14 @@ The solutions to the practice problems are at the end of the book and do not nee
 	* Practice: 3.1 (see `normalPlot`), 3.3, 3.17 (use `qqnormsim` from lab 3), 3.21, 3.37, 3.41
 	* Graded: 3.2 (see `normalPlot`), 3.4, 3.18 (use `qqnormsim` from lab 3), 3.22, 3.38, 3.42
 * Chapter 4. (due Oct 11)
-	* Practice: 
-	* Graded: 
+	* Practice: 4.3, 4.13, 4.23, 4.25, 4.39, 4.47
+	* Graded: 4.4, 4.14, 4.24, 4.26, 4.34, 4.40, 4.48
 * Chapter 5. (due Nov 1)
-	* Practice: 
-	* Graded: 
+	* Practice: 5.5, 5.13, 5.19, 5.31, 5.45
+	* Graded: 5.6, 5.14, 5.20, 5.32, 5.48
 * Chapter 6. (due Nov 1)
-	* Practice: 
-	* Graded: 
+	* Practice: 6.5, 6.11, 6.27, 6.43, 6.47
+	* Graded: 6.6, 6.12, 6.20, 6.28, 6.44, 6.48
 * Chapter 7. (due Nov 15)
 	* Practice: 
 	* Graded: 
