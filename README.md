@@ -101,7 +101,7 @@ Thursday Sep-3  7:00 pm | [Introduction to data](https://htmlpreview.github.io/?
 Thursday Sep-10 7:00 pm | [Probability](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-10-Probability.html#1) |
 Tuesday Sep-15 7:00 pm | [Distributions Part I](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-15-Distributions.html#1) |
 Thursday Sep-24 7:00 pm | [Distributions Part II](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-24-Distributions2.html#1)           |
-Thursday Oct-1  7:00 pm | [Foundation for Inference](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-10-01-Foundations_for_Inference.html#1)        |
+Thursday Oct-1  7:00 pm | [Foundation for Inference](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-10-01-Foundations_for_Inference.html#1) ([Video](https://www.youtube.com/watch?v=CL3dULq3ChM&index=6&list=PLz6X7eB9XUp3Z4sjFXWVA1n4Nnqqa7A03))       |
 Thursday Oct-8  7:00 pm |                                 |
 Thursday Oct-15 7:00 pm | Inference for Numerical Data    |
 Thursday Oct-22 7:00 pm | Inference for Categorical Data  |
@@ -110,7 +110,7 @@ Thursday Nov-5  7:00 pm | Linear Regression               |
 Thursday Nov-12 7:00 pm |                                 |
 Thursday Nov-19 7:00 pm | Multiple & Logistic Regression  |
 TBD            | Intro to Bayesian Analysis      |
-Thursday Dec-10 7:00 pm | Final Exam Review               |
+TBD | Final Exam Review               |
 Thursday Dec-17 7:00 pm | Conclusions                     |
 
 
