@@ -102,7 +102,7 @@ Thursday Sep-10 7:00 pm | [Probability](https://htmlpreview.github.io/?https://g
 Tuesday Sep-15 7:00 pm | [Distributions Part I](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-15-Distributions.html#1) ([Video](https://www.youtube.com/watch?v=SttA_J4zDqE&index=4&list=PLz6X7eB9XUp3Z4sjFXWVA1n4Nnqqa7A03)) |
 Thursday Sep-24 7:00 pm | [Distributions Part II](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-09-24-Distributions2.html#1) ([Video](https://www.youtube.com/watch?v=y5Gn720HpXY&index=5&list=PLz6X7eB9XUp3Z4sjFXWVA1n4Nnqqa7A03))          |
 Thursday Oct-1  7:00 pm | [Foundation for Inference](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-10-08-Foundations_for_Inference.html#1) ([Video](https://www.youtube.com/watch?v=CL3dULq3ChM&index=6&list=PLz6X7eB9XUp3Z4sjFXWVA1n4Nnqqa7A03))       |
-Thursday Oct-8  7:00 pm | [Foundation for Inference Part 2](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-10-01-Foundations_for_Inference2.html#1) |
+Thursday Oct-8  7:00 pm | [Foundation for Inference Part 2](https://htmlpreview.github.io/?https://github.com/jbryer/IS606Fall2015/blob/master/Slides/2015-10-01-Foundations_for_Inference2.html#1) ([Video](https://www.youtube.com/watch?v=pM_rIOU20XA&feature=youtu.be)) |
 Thursday Oct-15 7:00 pm | Inference for Numerical Data    |
 TBD | Inference for Categorical Data  |
 Thursday Oct-29 7:00 pm |                                 |

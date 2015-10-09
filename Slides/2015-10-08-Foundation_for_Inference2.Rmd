@@ -35,7 +35,7 @@ par(mar=c(2.5,1,2,1))
 ## Meetup Presentations
 
 * Christophe Hunt (4.3)
-* Charley Farrai (4.13, 4.25)
+* Charley Farrai (4.25)
 
 
 
