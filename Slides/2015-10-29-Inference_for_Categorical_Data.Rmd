@@ -33,7 +33,6 @@ par(mar=c(2.5,1,2,1))
 
 ## Meetup Presentations
 
-* Andrew Goldberg (TBD)
 * John DeBlase (5.5)
 * Gurpreet Singh (6.15)
 
