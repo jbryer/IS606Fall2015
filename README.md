@@ -167,11 +167,11 @@ The solutions to the practice problems are at the end of the book and do not nee
 	* Practice: 6.5, 6.11, 6.27, 6.43, 6.47
 	* Graded: 6.6, 6.12, 6.20, 6.28, 6.44, 6.48
 * Chapter 7. (due Nov 15)
-	* Practice: 
-	* Graded: 
+	* Practice: 7.23, 7.25, 7.29, 7.39
+	* Graded: 7.24, 7.26, 7.30, 7.40
 * Chapter 8. (due Nov 29)
-	* Practice: 
-	* Graded: 
+	* Practice: 8.1, 8.3, 8.7, 8.15, 8.17
+	* Graded: 8.2, 8.4, 8.8, 8.16, 8.18
 * Bayesian (due Dec 13)
 	* Practice: 
 	* Graded: 
