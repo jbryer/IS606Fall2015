@@ -106,8 +106,8 @@ Thursday Oct-8  7:00 pm | [Foundation for Inference Part 2](https://htmlpreview.
 Thursday Oct-15 7:00 pm | [Inference for Numerical Data](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Slides/2015-10-15-Inference_for_Numerical_Data.html#1) ([Video](https://youtu.be/LnIh7fAu9Ng))   |
 Thursday Oct-22         | No Class                        |
 Thursday Oct-29 7:00 pm | [Inference for Categorical Data](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Slides/2015-10-29-Inference_for_Categorical_Data.html#1) ([Video](https://youtu.be/Cbd7byeOh_U))  |
-Thursday Nov-5  7:00 pm | Linear Regression               |
-Thursday Nov-12 7:00 pm |                                 |
+Thursday Nov-5  7:00 pm | [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Slides/2015-11-05-Linear_Regression.html#1) ([Video](https://youtu.be/rwzVXIqAwTk))  |
+Thursday Nov-12 7:00 pm | Linear Regression               |
 Thursday Nov-19 7:00 pm | Multiple & Logistic Regression  |
 Thursday Nov-26         | No Class - Happy Thanksgiving   |
 TBD                     | Intro to Bayesian Analysis      |
