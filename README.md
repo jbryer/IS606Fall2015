@@ -107,7 +107,7 @@ Thursday Oct-15 7:00 pm | [Inference for Numerical Data](https://htmlpreview.git
 Thursday Oct-22         | No Class                        |
 Thursday Oct-29 7:00 pm | [Inference for Categorical Data](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Slides/2015-10-29-Inference_for_Categorical_Data.html#1) ([Video](https://youtu.be/Cbd7byeOh_U))  |
 Thursday Nov-5  7:00 pm | [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Slides/2015-11-05-Linear_Regression.html#1) ([Video](https://youtu.be/rwzVXIqAwTk))  |
-Thursday Nov-12 7:00 pm | Linear Regression               |
+Thursday Nov-12 7:00 pm | [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Slides/2015-11-05-Linear_Regression2.html#1) ([Video](https://youtu.be/4XphtxOpNrg)) |
 Thursday Nov-19 7:00 pm | Multiple & Logistic Regression  |
 Thursday Nov-26         | No Class - Happy Thanksgiving   |
 TBD                     | Intro to Bayesian Analysis      |
@@ -259,6 +259,7 @@ shiny_demo()              # Lists available Shiny apps
 * [R-Bloggers](http://www.r-bloggers.com/)
 * [Journal of Statistical Software](http://www.jstatsoft.org/)
 * [The R Journal](http://journal.r-project.org/)
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 
 #### Learning R Markdown
 
