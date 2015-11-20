@@ -1,5 +1,5 @@
 ---
-title: "IS606 - Linear Regression"
+title: "IS606 - Multiple Linear Regression"
 author: Jason Bryer, Ph.D.
 date: November 19, 2015
 output:
@@ -55,7 +55,6 @@ printLaTeXFormula <- function(fit, digits=2) {
 
 * Lara Burford (8.1) [Slides](http://rpubs.com/Lolly6580/127357), [Presentation](https://www.wevideo.com/hub/#media/ci/515645582)
 * Keith Folsom (8.3)
-* Nicholas Capofari
 * Edwige Talla Badjio (8.7)
 * Igor Balagula (8.17)
 
@@ -244,13 +243,13 @@ pairs(poverty[,c(2:6)], lower.panel = panel.cor, pch = 19)
 poverty vs % female head of household
 
 ```{r, echo=FALSE, results='asis'}
-print(xtable(lm.out), type='html')
+print(xtable(lm.poverty), type='html')
 ```
 
 poverty vs % female head of household and % female household
 
 ```{r, echo=FALSE, results='asis'}
-print(xtable(lm.out2), type='html')
+print(xtable(lm.poverty2), type='html')
 ```
 
 Note the difference in the estimate for `female_house`.

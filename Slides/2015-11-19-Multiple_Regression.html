@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>IS606 - Linear Regression</title>
+  <title>IS606 - Multiple Linear Regression</title>
 
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -26,7 +26,7 @@
     var SLIDE_CONFIG = {
       // Slide settings
       settings: {
-                title: 'IS606 - Linear Regression',
+                title: 'IS606 - Multiple Linear Regression',
                         useBuilds: true,
         usePrettify: true,
         enableSlideAreas: true,
@@ -116,7 +116,6 @@
 <ul>
 <li>Lara Burford (8.1) <a href='http://rpubs.com/Lolly6580/127357' title=''>Slides</a>, <a href='https://www.wevideo.com/hub/#media/ci/515645582' title=''>Presentation</a></li>
 <li>Keith Folsom (8.3)</li>
-<li>Nicholas Capofari</li>
 <li>Edwige Talla Badjio (8.7)</li>
 <li>Igor Balagula (8.17)</li>
 </ul>
@@ -223,7 +222,7 @@ summary(lm.out2)</pre>
 
 <!-- html table generated in R 3.2.2 by xtable 1.8-0 package -->
 
-<!-- Thu Nov 19 18:29:37 2015 -->
+<!-- Thu Nov 19 20:18:12 2015 -->
 
 <table border="1">
 
@@ -447,7 +446,7 @@ print(xtable(anova.poverty, digits = 2), type=&#39;html&#39;)</pre>
 
 <!-- html table generated in R 3.2.2 by xtable 1.8-0 package -->
 
-<!-- Thu Nov 19 18:29:38 2015 -->
+<!-- Thu Nov 19 20:18:13 2015 -->
 
 <table border="1">
 
@@ -594,7 +593,7 @@ print(xtable(lm.out2), type=&#39;html&#39;)</pre>
 
 <!-- html table generated in R 3.2.2 by xtable 1.8-0 package -->
 
-<!-- Thu Nov 19 18:29:38 2015 -->
+<!-- Thu Nov 19 20:18:13 2015 -->
 
 <table border="1">
 
@@ -739,7 +738,7 @@ print(xtable(anova.poverty2, digits = 2), type=&#39;html&#39;)</pre>
 
 <!-- html table generated in R 3.2.2 by xtable 1.8-0 package -->
 
-<!-- Thu Nov 19 18:29:38 2015 -->
+<!-- Thu Nov 19 20:18:13 2015 -->
 
 <table border="1">
 
@@ -873,7 +872,7 @@ Residuals
 
 <!-- html table generated in R 3.2.2 by xtable 1.8-0 package -->
 
-<!-- Thu Nov 19 18:29:39 2015 -->
+<!-- Thu Nov 19 20:18:15 2015 -->
 
 <table border="1">
 
@@ -919,25 +918,25 @@ Pr(&gt;|t|)
 
 <td align="right">
 
-107.6793
+3.3094
 
 </td>
 
 <td align="right">
 
-88.3776
+1.8970
 
 </td>
 
 <td align="right">
 
-1.22
+1.74
 
 </td>
 
 <td align="right">
 
-0.2447
+0.0873
 
 </td>
 
@@ -947,31 +946,31 @@ Pr(&gt;|t|)
 
 <td align="right">
 
-volume
+female_house
 
 </td>
 
 <td align="right">
 
-0.7086
+0.6911
 
 </td>
 
 <td align="right">
 
-0.0975
+0.1599
 
 </td>
 
 <td align="right">
 
-7.27
+4.32
 
 </td>
 
 <td align="right">
 
-0.0000
+0.0001
 
 </td>
 
@@ -983,7 +982,7 @@ volume
 
 <!-- html table generated in R 3.2.2 by xtable 1.8-0 package -->
 
-<!-- Thu Nov 19 18:29:39 2015 -->
+<!-- Thu Nov 19 20:18:15 2015 -->
 
 <table border="1">
 
@@ -1029,59 +1028,25 @@ Pr(&gt;|t|)
 
 <td align="right">
 
-197.9628
+-2.5789
 
 </td>
 
 <td align="right">
 
-59.1927
+5.7849
 
 </td>
 
 <td align="right">
 
-3.34
+-0.45
 
 </td>
 
 <td align="right">
 
-0.0058
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="right">
-
-volume
-
-</td>
-
-<td align="right">
-
-0.7180
-
-</td>
-
-<td align="right">
-
-0.0615
-
-</td>
-
-<td align="right">
-
-11.67
-
-</td>
-
-<td align="right">
-
-0.0000
+0.6577
 
 </td>
 
@@ -1091,31 +1056,65 @@ volume
 
 <td align="right">
 
-coverpb
+female_house
 
 </td>
 
 <td align="right">
 
--184.0473
+0.8869
 
 </td>
 
 <td align="right">
 
-40.4942
+0.2419
 
 </td>
 
 <td align="right">
 
--4.55
+3.67
 
 </td>
 
 <td align="right">
 
-0.0007
+0.0006
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="right">
+
+white
+
+</td>
+
+<td align="right">
+
+0.0442
+
+</td>
+
+<td align="right">
+
+0.0410
+
+</td>
+
+<td align="right">
+
+1.08
+
+</td>
+
+<td align="right">
+
+0.2868
 
 </td>
 
