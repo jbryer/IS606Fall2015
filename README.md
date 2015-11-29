@@ -173,8 +173,7 @@ The solutions to the practice problems are at the end of the book and do not nee
 	* Practice: 8.1, 8.3, 8.7, 8.15, 8.17
 	* Graded: 8.2, 8.4, 8.8, 8.16, 8.18
 * Bayesian (due Dec 13)
-	* Practice: 
-	* Graded: 
+	* Graded: 2.1, 5.1, 5.2
 
 ## Labs
 
