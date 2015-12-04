@@ -110,7 +110,7 @@ Thursday Nov-5  7:00 pm | [Linear Regression](https://htmlpreview.github.io/?htt
 Thursday Nov-12 7:00 pm | [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Slides/2015-11-12-Linear_Regression2.html#1) ([Video](https://youtu.be/4XphtxOpNrg)) |
 Thursday Nov-19 7:00 pm | [Multiple & Logistic Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Slides/2015-11-19-Multiple_Regression.html#1) ([Video](https://youtu.be/dwkiwtBiNWs))  |
 Thursday Nov-26         | No Class - Happy Thanksgiving   |
-Wednesday Dec-2 7:00 pm | Intro to Bayesian Analysis      |
+Wednesday Dec-2 7:00 pm | [Intro to Bayesian Analysis](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jbryer/IS606Fall2015/master/Slides/2015-12-02-Bayesian_Analysis.html#1) ([Video](https://youtu.be/dkAKZnLHJoA))     |
 Thursday Dec-10         | No Class                        |
 Thursday Dec-17 7:00 pm | Conclusions                     |
 
